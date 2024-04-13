@@ -55,4 +55,4 @@
 - QTcpSocket类的connectToHost()、write()、readyRead()、close()函数
 - 信号-槽机制：connected、disconnected信号
 
-![main](.\pic\main.png)
+![main](./pic/main.png)
